@@ -1,0 +1,2 @@
+-e git+https://github.com/ikalchev/py-sds011#egg=sds011
+influxdb
